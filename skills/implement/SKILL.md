@@ -23,3 +23,4 @@ description: "Implement scoped code changes after the task is already defined. U
 - State what changed.
 - Call out any risks, gaps, or assumptions.
 - Do not claim completion until the code has been checked.
+- If relevant, include a short manual E2E smoke-test path the user can run.
